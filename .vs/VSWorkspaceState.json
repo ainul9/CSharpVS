@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CalculatorByMyself",
+    "\\GradeMarks"
   ],
+  "SelectedNode": "\\CalculatorByMyself\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.exe
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.deps.json
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.runtimeconfig.json
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.dll
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.pdb
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.dll
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\EvenOrOdd\obj\Debug\net6.0\refint\EvenOrOdd.dll
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.pdb
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.genruntimeconfig.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\EvenOrOdd\obj\Debug\net6.0\ref\EvenOrOdd.dll
+C:\Users\User\source\repos\CSharpVS\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.exe
+C:\Users\User\source\repos\CSharpVS\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.deps.json
+C:\Users\User\source\repos\CSharpVS\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.runtimeconfig.json
+C:\Users\User\source\repos\CSharpVS\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.dll
+C:\Users\User\source\repos\CSharpVS\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.pdb
+C:\Users\User\source\repos\CSharpVS\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CSharpVS\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharpVS\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharpVS\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharpVS\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharpVS\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.dll
+C:\Users\User\source\repos\CSharpVS\EvenOrOdd\obj\Debug\net6.0\refint\EvenOrOdd.dll
+C:\Users\User\source\repos\CSharpVS\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.pdb
+C:\Users\User\source\repos\CSharpVS\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharpVS\EvenOrOdd\obj\Debug\net6.0\ref\EvenOrOdd.dll

@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GenerateFibonacci\bin\Debug\net6.0\GenerateFibonacci.exe
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GenerateFibonacci\bin\Debug\net6.0\GenerateFibonacci.deps.json
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GenerateFibonacci\bin\Debug\net6.0\GenerateFibonacci.runtimeconfig.json
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GenerateFibonacci\bin\Debug\net6.0\GenerateFibonacci.dll
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GenerateFibonacci\bin\Debug\net6.0\GenerateFibonacci.pdb
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GenerateFibonacci\obj\Debug\net6.0\GenerateFibonacci.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GenerateFibonacci\obj\Debug\net6.0\GenerateFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GenerateFibonacci\obj\Debug\net6.0\GenerateFibonacci.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GenerateFibonacci\obj\Debug\net6.0\GenerateFibonacci.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GenerateFibonacci\obj\Debug\net6.0\GenerateFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GenerateFibonacci\obj\Debug\net6.0\GenerateFibonacci.dll
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GenerateFibonacci\obj\Debug\net6.0\refint\GenerateFibonacci.dll
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GenerateFibonacci\obj\Debug\net6.0\GenerateFibonacci.pdb
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GenerateFibonacci\obj\Debug\net6.0\GenerateFibonacci.genruntimeconfig.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GenerateFibonacci\obj\Debug\net6.0\ref\GenerateFibonacci.dll
+C:\Users\User\source\repos\CSharpVS\GenerateFibonacci\bin\Debug\net6.0\GenerateFibonacci.exe
+C:\Users\User\source\repos\CSharpVS\GenerateFibonacci\bin\Debug\net6.0\GenerateFibonacci.deps.json
+C:\Users\User\source\repos\CSharpVS\GenerateFibonacci\bin\Debug\net6.0\GenerateFibonacci.runtimeconfig.json
+C:\Users\User\source\repos\CSharpVS\GenerateFibonacci\bin\Debug\net6.0\GenerateFibonacci.dll
+C:\Users\User\source\repos\CSharpVS\GenerateFibonacci\bin\Debug\net6.0\GenerateFibonacci.pdb
+C:\Users\User\source\repos\CSharpVS\GenerateFibonacci\obj\Debug\net6.0\GenerateFibonacci.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CSharpVS\GenerateFibonacci\obj\Debug\net6.0\GenerateFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharpVS\GenerateFibonacci\obj\Debug\net6.0\GenerateFibonacci.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharpVS\GenerateFibonacci\obj\Debug\net6.0\GenerateFibonacci.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharpVS\GenerateFibonacci\obj\Debug\net6.0\GenerateFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharpVS\GenerateFibonacci\obj\Debug\net6.0\GenerateFibonacci.dll
+C:\Users\User\source\repos\CSharpVS\GenerateFibonacci\obj\Debug\net6.0\refint\GenerateFibonacci.dll
+C:\Users\User\source\repos\CSharpVS\GenerateFibonacci\obj\Debug\net6.0\GenerateFibonacci.pdb
+C:\Users\User\source\repos\CSharpVS\GenerateFibonacci\obj\Debug\net6.0\GenerateFibonacci.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharpVS\GenerateFibonacci\obj\Debug\net6.0\ref\GenerateFibonacci.dll

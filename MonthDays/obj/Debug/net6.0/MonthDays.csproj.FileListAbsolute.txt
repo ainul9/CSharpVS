@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\MonthDays\obj\Debug\net6.0\MonthDays.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\MonthDays\obj\Debug\net6.0\MonthDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\MonthDays\obj\Debug\net6.0\MonthDays.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\MonthDays\obj\Debug\net6.0\MonthDays.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\MonthDays\obj\Debug\net6.0\MonthDays.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\MonthDays\bin\Debug\net6.0\MonthDays.exe
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\MonthDays\bin\Debug\net6.0\MonthDays.deps.json
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\MonthDays\bin\Debug\net6.0\MonthDays.runtimeconfig.json
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\MonthDays\bin\Debug\net6.0\MonthDays.dll
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\MonthDays\bin\Debug\net6.0\MonthDays.pdb
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\MonthDays\obj\Debug\net6.0\MonthDays.dll
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\MonthDays\obj\Debug\net6.0\refint\MonthDays.dll
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\MonthDays\obj\Debug\net6.0\MonthDays.pdb
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\MonthDays\obj\Debug\net6.0\MonthDays.genruntimeconfig.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\MonthDays\obj\Debug\net6.0\ref\MonthDays.dll
+C:\Users\User\source\repos\CSharpVS\MonthDays\bin\Debug\net6.0\MonthDays.exe
+C:\Users\User\source\repos\CSharpVS\MonthDays\bin\Debug\net6.0\MonthDays.deps.json
+C:\Users\User\source\repos\CSharpVS\MonthDays\bin\Debug\net6.0\MonthDays.runtimeconfig.json
+C:\Users\User\source\repos\CSharpVS\MonthDays\bin\Debug\net6.0\MonthDays.dll
+C:\Users\User\source\repos\CSharpVS\MonthDays\bin\Debug\net6.0\MonthDays.pdb
+C:\Users\User\source\repos\CSharpVS\MonthDays\obj\Debug\net6.0\MonthDays.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CSharpVS\MonthDays\obj\Debug\net6.0\MonthDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharpVS\MonthDays\obj\Debug\net6.0\MonthDays.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharpVS\MonthDays\obj\Debug\net6.0\MonthDays.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharpVS\MonthDays\obj\Debug\net6.0\MonthDays.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharpVS\MonthDays\obj\Debug\net6.0\MonthDays.dll
+C:\Users\User\source\repos\CSharpVS\MonthDays\obj\Debug\net6.0\refint\MonthDays.dll
+C:\Users\User\source\repos\CSharpVS\MonthDays\obj\Debug\net6.0\MonthDays.pdb
+C:\Users\User\source\repos\CSharpVS\MonthDays\obj\Debug\net6.0\MonthDays.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharpVS\MonthDays\obj\Debug\net6.0\ref\MonthDays.dll

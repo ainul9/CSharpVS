@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\TrimString\obj\Debug\net6.0\TrimString.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\TrimString\obj\Debug\net6.0\TrimString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\TrimString\obj\Debug\net6.0\TrimString.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\TrimString\obj\Debug\net6.0\TrimString.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\TrimString\obj\Debug\net6.0\TrimString.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\TrimString\bin\Debug\net6.0\TrimString.exe
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\TrimString\bin\Debug\net6.0\TrimString.deps.json
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\TrimString\bin\Debug\net6.0\TrimString.runtimeconfig.json
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\TrimString\bin\Debug\net6.0\TrimString.dll
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\TrimString\bin\Debug\net6.0\TrimString.pdb
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\TrimString\obj\Debug\net6.0\TrimString.dll
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\TrimString\obj\Debug\net6.0\refint\TrimString.dll
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\TrimString\obj\Debug\net6.0\TrimString.pdb
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\TrimString\obj\Debug\net6.0\TrimString.genruntimeconfig.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\TrimString\obj\Debug\net6.0\ref\TrimString.dll
+C:\Users\User\source\repos\CSharpVS\TrimString\obj\Debug\net6.0\TrimString.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CSharpVS\TrimString\obj\Debug\net6.0\TrimString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharpVS\TrimString\obj\Debug\net6.0\TrimString.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharpVS\TrimString\obj\Debug\net6.0\TrimString.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharpVS\TrimString\obj\Debug\net6.0\TrimString.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharpVS\TrimString\obj\Debug\net6.0\TrimString.dll
+C:\Users\User\source\repos\CSharpVS\TrimString\obj\Debug\net6.0\refint\TrimString.dll
+C:\Users\User\source\repos\CSharpVS\TrimString\obj\Debug\net6.0\TrimString.pdb
+C:\Users\User\source\repos\CSharpVS\TrimString\bin\Debug\net6.0\TrimString.exe
+C:\Users\User\source\repos\CSharpVS\TrimString\bin\Debug\net6.0\TrimString.deps.json
+C:\Users\User\source\repos\CSharpVS\TrimString\bin\Debug\net6.0\TrimString.runtimeconfig.json
+C:\Users\User\source\repos\CSharpVS\TrimString\bin\Debug\net6.0\TrimString.dll
+C:\Users\User\source\repos\CSharpVS\TrimString\bin\Debug\net6.0\TrimString.pdb
+C:\Users\User\source\repos\CSharpVS\TrimString\obj\Debug\net6.0\TrimString.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharpVS\TrimString\obj\Debug\net6.0\ref\TrimString.dll

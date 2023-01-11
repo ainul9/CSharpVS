@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\ConcatString\bin\Debug\net6.0\ConcatString.exe
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\ConcatString\bin\Debug\net6.0\ConcatString.deps.json
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\ConcatString\bin\Debug\net6.0\ConcatString.runtimeconfig.json
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\ConcatString\bin\Debug\net6.0\ConcatString.dll
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\ConcatString\bin\Debug\net6.0\ConcatString.pdb
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\ConcatString\obj\Debug\net6.0\ConcatString.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\ConcatString\obj\Debug\net6.0\ConcatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\ConcatString\obj\Debug\net6.0\ConcatString.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\ConcatString\obj\Debug\net6.0\ConcatString.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\ConcatString\obj\Debug\net6.0\ConcatString.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\ConcatString\obj\Debug\net6.0\ConcatString.dll
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\ConcatString\obj\Debug\net6.0\refint\ConcatString.dll
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\ConcatString\obj\Debug\net6.0\ConcatString.pdb
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\ConcatString\obj\Debug\net6.0\ConcatString.genruntimeconfig.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\ConcatString\obj\Debug\net6.0\ref\ConcatString.dll
+C:\Users\User\source\repos\CSharpVS\ConcatString\bin\Debug\net6.0\ConcatString.exe
+C:\Users\User\source\repos\CSharpVS\ConcatString\bin\Debug\net6.0\ConcatString.deps.json
+C:\Users\User\source\repos\CSharpVS\ConcatString\bin\Debug\net6.0\ConcatString.runtimeconfig.json
+C:\Users\User\source\repos\CSharpVS\ConcatString\bin\Debug\net6.0\ConcatString.dll
+C:\Users\User\source\repos\CSharpVS\ConcatString\bin\Debug\net6.0\ConcatString.pdb
+C:\Users\User\source\repos\CSharpVS\ConcatString\obj\Debug\net6.0\ConcatString.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CSharpVS\ConcatString\obj\Debug\net6.0\ConcatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharpVS\ConcatString\obj\Debug\net6.0\ConcatString.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharpVS\ConcatString\obj\Debug\net6.0\ConcatString.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharpVS\ConcatString\obj\Debug\net6.0\ConcatString.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharpVS\ConcatString\obj\Debug\net6.0\ConcatString.dll
+C:\Users\User\source\repos\CSharpVS\ConcatString\obj\Debug\net6.0\refint\ConcatString.dll
+C:\Users\User\source\repos\CSharpVS\ConcatString\obj\Debug\net6.0\ConcatString.pdb
+C:\Users\User\source\repos\CSharpVS\ConcatString\obj\Debug\net6.0\ConcatString.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharpVS\ConcatString\obj\Debug\net6.0\ref\ConcatString.dll
