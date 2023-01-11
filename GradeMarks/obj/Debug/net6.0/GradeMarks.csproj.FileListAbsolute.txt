@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GradeMarks\bin\Debug\net6.0\GradeMarks.exe
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GradeMarks\bin\Debug\net6.0\GradeMarks.deps.json
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GradeMarks\bin\Debug\net6.0\GradeMarks.runtimeconfig.json
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GradeMarks\bin\Debug\net6.0\GradeMarks.dll
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GradeMarks\bin\Debug\net6.0\GradeMarks.pdb
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GradeMarks\obj\Debug\net6.0\GradeMarks.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GradeMarks\obj\Debug\net6.0\GradeMarks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GradeMarks\obj\Debug\net6.0\GradeMarks.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GradeMarks\obj\Debug\net6.0\GradeMarks.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GradeMarks\obj\Debug\net6.0\GradeMarks.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GradeMarks\obj\Debug\net6.0\GradeMarks.dll
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GradeMarks\obj\Debug\net6.0\refint\GradeMarks.dll
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GradeMarks\obj\Debug\net6.0\GradeMarks.pdb
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GradeMarks\obj\Debug\net6.0\GradeMarks.genruntimeconfig.cache
+C:\Users\User\Desktop\C# Exercises\CSharpPractices\GradeMarks\obj\Debug\net6.0\ref\GradeMarks.dll
+C:\Users\User\source\repos\CSharpVS\GradeMarks\bin\Debug\net6.0\GradeMarks.exe
+C:\Users\User\source\repos\CSharpVS\GradeMarks\bin\Debug\net6.0\GradeMarks.deps.json
+C:\Users\User\source\repos\CSharpVS\GradeMarks\bin\Debug\net6.0\GradeMarks.runtimeconfig.json
+C:\Users\User\source\repos\CSharpVS\GradeMarks\bin\Debug\net6.0\GradeMarks.dll
+C:\Users\User\source\repos\CSharpVS\GradeMarks\bin\Debug\net6.0\GradeMarks.pdb
+C:\Users\User\source\repos\CSharpVS\GradeMarks\obj\Debug\net6.0\GradeMarks.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CSharpVS\GradeMarks\obj\Debug\net6.0\GradeMarks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharpVS\GradeMarks\obj\Debug\net6.0\GradeMarks.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharpVS\GradeMarks\obj\Debug\net6.0\GradeMarks.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharpVS\GradeMarks\obj\Debug\net6.0\GradeMarks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharpVS\GradeMarks\obj\Debug\net6.0\GradeMarks.dll
+C:\Users\User\source\repos\CSharpVS\GradeMarks\obj\Debug\net6.0\refint\GradeMarks.dll
+C:\Users\User\source\repos\CSharpVS\GradeMarks\obj\Debug\net6.0\GradeMarks.pdb
+C:\Users\User\source\repos\CSharpVS\GradeMarks\obj\Debug\net6.0\GradeMarks.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharpVS\GradeMarks\obj\Debug\net6.0\ref\GradeMarks.dll
